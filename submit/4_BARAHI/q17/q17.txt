@@ -1,0 +1,12 @@
+1番目）
+
+Kipplinger見たいな金融Webサイトをscrapeしてそこにあるデータを使って現在の株式市場をtrackする。
+
+２番目）
+
+就職活動のウェブサイトを自分に一番会う仕事をscrapeする。
+
+３番目）
+
+Trustpilot,yelp見たいなwebsiteをscrapeしてどんなものが一番売れてるのかどんなものを人気あるのかをtraceする。
+
